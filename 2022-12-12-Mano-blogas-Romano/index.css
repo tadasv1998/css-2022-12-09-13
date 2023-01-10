@@ -1,0 +1,103 @@
+h1 {
+    border: dashed;
+    border-color: black;
+    font-size: 30px;
+    background-color: rgb(112, 178, 239);
+    color: green;
+    margin: 50px;
+    padding: 10px 30px;  
+}
+button {
+    text-decoration: none;
+    text-transform: uppercase;
+    background-color: #d14883;
+    color: white;
+    font-size: 18px;
+    font-weight: 700;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border-color: #d14883;
+}
+button:hover {
+    color: black;
+    background-color: aliceblue;
+}
+.buy-now {
+    text-decoration: none;
+    text-transform: uppercase;
+    background-color: white;
+    color: #d14883;
+    font-size: 18px;
+    font-weight: 700;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border-color: #d14883;
+}
+.buy-now:hover{
+    color: black;
+    background-color: #d14883;
+}
+.buy-later {
+    text-decoration: none;
+    text-transform: uppercase;
+    background-color: rgb(97, 204, 97);
+    color: white;
+    font-size: 18px;
+    font-weight: 700;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border-color: rgb(97, 204, 97);
+}
+.basket {
+    text-decoration: none;
+    text-transform: uppercase;
+    background-color: white;
+    color: rgb(97, 204, 97);
+    font-size: 18px;
+    font-weight: 700;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border-color: rgb(97, 204, 97);
+}
+.basket:hover {
+    color:black;
+    background-color:  rgb(97, 204, 97);
+}
+.post-list {
+    margin: auto;
+    max-width: 500px;
+}
+.post-title {
+    background-color: bisque;
+}
+.post-buttons {
+    padding-top: 20px;
+    padding-bottom: 50px;
+    font-family: Arial;
+}
+.skaityti-daugiau {
+    text-decoration: none;
+    text-transform: uppercase;
+    background-color: #d14883;
+    color: white;
+    font-size: 18px;
+    font-weight: 700;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border-color: #d14883;
+}
+.skaityti-daugiau:hover{
+    color: black;
+    background-color: aliceblue;
+}
+.pirk-dabar {
+    text-decoration: none;
+    text-transform: uppercase;
+    background-color: white;
+    color: #d14883;
+    font-size: 18px;
+    font-weight: 700;
+    padding: 10px 50px;
+    border: solid;
+    border-radius: 10px;
+}
